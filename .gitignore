@@ -1,0 +1,5 @@
+# Convenience artifacts, not part of the report
+genesis_report_overleaf.zip
+# Superseded exploratory table (wrong factor design; see genesis_8combo_corrected.csv)
+genesis_scenarios.csv
+__pycache__/
